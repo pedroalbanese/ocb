@@ -7,4 +7,4 @@ Since the authors only applied for patent protection in the U.S., the algorithm 
 
 In January 2013, the author granted a free license for any open source license certified by the Open Source Initiative.
 
-It is worth noting that the U.S. patents for OCB mode were intentionally abandoned in 2021.
+The U.S. patents were intentionally abandoned in 2021.
